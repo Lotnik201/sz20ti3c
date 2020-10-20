@@ -40,7 +40,7 @@ https://github.com/Lotnik201/sz20ti3c
  
 ## Licencja
  
-This project is released under the MIT Licence. See the bundled LICENSE file for details.
+Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA.
  
 ## Autor
  
